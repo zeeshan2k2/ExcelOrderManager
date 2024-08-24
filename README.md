@@ -4,10 +4,10 @@
 Excel Order Manager is a Python script for efficiently managing and tracking orders using an Excel spreadsheet. The script parses order information, updates the Excel file with current statuses, and provides a user-friendly interface for monitoring and managing orders.
 
 <h2>Features</h2>
-- Order Parsing**: Extracts and processes order details from input text, and adds them to an Excel file.
-- Drop-Down Menus**: Includes drop-down lists for updating order statuses with custom color coding.
-- Color Coding**: Uses light yellow, light orange, and light green to visually distinguish between different order statuses.
-- Status Management**: Allows for easy addition of new orders and updates to existing order statuses.
+<p>- Order Parsing: Extracts and processes order details from input text, and adds them to an Excel file.</p>
+<p>- Drop-Down Menus: Includes drop-down lists for updating order statuses with custom color coding.</p>
+<p>- Color Coding: Uses light yellow, light orange, and light green to visually distinguish between different order statuses.</p>
+<p>- Status Management: Allows for easy addition of new orders and updates to existing order statuses.</p>
 
 <h2>Installation</h2>
 1. Clone the repository: `git clone https://github.com/zeeshan2k2/ExcelOrderManager.git`

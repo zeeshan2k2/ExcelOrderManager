@@ -15,9 +15,9 @@ Excel Order Manager is a Python script for efficiently managing and tracking ord
 <li>Run the script: `python excel_order_manager.py`</li>
 
 <h2>Usage</h2>
-1. Execute the script to initialize the Excel file.
-2. Use the command-line prompts to add or update orders.
-3. The Excel file will be updated with new order details and status changes.
+<li>Execute the script to initialize the Excel file.</li>
+<li>Use the command-line prompts to add or update orders.</li>
+<li>The Excel file will be updated with new order details and status changes.</li>
 
 <h2>Contributing</h2>
 Contributions are welcome! Please submit issues or pull requests to enhance the functionality of the script.

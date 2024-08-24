@@ -10,7 +10,7 @@ Excel Order Manager is a Python script for efficiently managing and tracking ord
 - **Status Management**: Easily add new orders and update the status of existing ones.
 
 <h2>Installation</h2>
-1. Clone the repository: `git clone https://github.com/zeeshan2k2/ExcelOrderManager`
+1. Clone the repository: `git clone https://github.com/zeeshan2k2/ExcelOrderManager.git`
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the script: `python excel_order_manager.py`
 
